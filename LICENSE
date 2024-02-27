@@ -1,7 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2023-2024 iobroker community developers <iobroker-community-adapters@gmx.de>  
-Copyright (c) 2017-2023 bluefox <dogafox@gmail.com>
+Copyright (c) 2024 da-mkay (https://github.com/da-mkay) (mihome-vacuum-map-dl specific parts)
+Copyright (c) 2023-2024 iobroker community developers <iobroker-community-adapters@gmx.de> (original project: iobroker-community-adapters/ioBroker.mihome-vacuum)
+Copyright (c) 2017-2023 bluefox <dogafox@gmail.com> (original project: iobroker-community-adapters/ioBroker.mihome-vacuum)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
